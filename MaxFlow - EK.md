@@ -1,3 +1,1 @@
-```c++
-#include<bits/stdc++.h>
-```
+$x$
